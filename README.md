@@ -3,9 +3,10 @@ Description
 
 This database is designed to manage information about employees, branches, clients, suppliers, and their interactions within a fictional company structure.
 
-Tables
+# Tables
 
 1. Employee
+
 emp_id: Unique identifier for an employee
 
 first_name: First name of the employee
