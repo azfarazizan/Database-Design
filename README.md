@@ -1,4 +1,4 @@
-# Simple Database Design README
+# Simple Database Design 
 Description
 
 This database is designed to manage information about employees, branches, clients, suppliers, and their interactions within a fictional company structure.
